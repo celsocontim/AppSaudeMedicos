@@ -1,0 +1,33 @@
+{
+  "name": "appsaudemedicos",
+  "version": "1.0.0",
+  "description": "API para informações dos médicos disponíveis",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rimraf dist/ && babel ./src --out-dir dist/ --ignore ./node_modules,./.babelrc,./nodemon.json,./package.json,./npm-debug.log --copy-files && copyfiles -a config/* dist",
+    "start": "npm run build && cross-env NODE_ENV=production node dist/index.js",
+    "start:dev": "cross-env NODE_ENV=development nodemon"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Celso Contim",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.10",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "copyfiles": "^2.4.1",
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.15",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "morgan": "^1.10.0",
+    "winston": "^3.10.0"
+  }
+}
