@@ -96,3 +96,133 @@
 {"label":"medicos","level":"info","message":"GET /medicos/medico-id64dbb2cc8deadef6b5c9c190 200 100 - 6.492 ms\n","timestamp":"2023-08-15T17:40:34.097Z"}
 {"label":"medicos","level":"info","message":"GET /medicos/medico-id?64dbb2cc8deadef6b5c9c190 404 38 - 0.338 ms\n","timestamp":"2023-08-15T17:40:40.832Z"}
 {"label":"medicos","level":"info","message":"GET /medicos/medico-id64dbb2cc8deadef6b5c9c190 200 100 - 2.368 ms\n","timestamp":"2023-08-15T17:40:45.970Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-08-17T00:44:15.265Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T12:55:19.697Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 374 - 11.589 ms\n","timestamp":"2023-09-11T12:55:29.420Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 22 - 10.174 ms\n","timestamp":"2023-09-11T13:20:19.401Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 21502 - 3.395 ms\n","timestamp":"2023-09-11T13:20:24.248Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 22 - 2.678 ms\n","timestamp":"2023-09-11T13:30:19.807Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 42643 - 2.589 ms\n","timestamp":"2023-09-11T13:30:23.016Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T13:50:04.667Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:05:30.926Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 42705 - 17.693 ms\n","timestamp":"2023-09-11T14:05:40.143Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:06:27.346Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:08:49.993Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:15:54.248Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 42460 - 16.883 ms\n","timestamp":"2023-09-11T14:16:01.757Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:28:45.551Z"}
+{"label":"medicos","level":"error","message":"request entity too large","timestamp":"2023-09-11T14:31:30.864Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 106 - 16.099 ms\n","timestamp":"2023-09-11T14:34:10.950Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff25627fb6be67c8e35f3c 200 9991 - 8.213 ms\n","timestamp":"2023-09-11T14:34:24.544Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:35:08.745Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 52443 - 21.087 ms\n","timestamp":"2023-09-11T14:35:13.827Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:54:27.920Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 106 - 14.657 ms\n","timestamp":"2023-09-11T14:54:48.831Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:56:19.966Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:57:11.471Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:58:17.847Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T14:59:15.195Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:00:48.694Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:01:26.776Z"}
+{"label":"medicos","level":"info","message":"DELETE /medicos/exclui-medico-id64ff2a3848798dba6dabe13e 200 109 - 15.261 ms\n","timestamp":"2023-09-11T15:01:40.864Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 10059 - 8.545 ms\n","timestamp":"2023-09-11T15:01:46.171Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:02:54.911Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:03:03.489Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:03:22.827Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:03:53.796Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 77 - 13.322 ms\n","timestamp":"2023-09-11T15:04:00.342Z"}
+{"label":"medicos","level":"error","message":"Id nao encontrado","timestamp":"2023-09-11T15:04:24.399Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff2a3848798dba6dabe13e 404 31 - 5.667 ms\n","timestamp":"2023-09-11T15:04:24.400Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T15:04:35.472Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:13:02.546Z"}
+{"label":"medicos","level":"error","message":"Medico não foi atualizado, verifique os parametros enviados","timestamp":"2023-09-11T17:14:26.109Z"}
+{"label":"medicos","level":"info","message":"PATCH /medicos/atualiza-medico-id64ff2a3848798dba6dabe13e 404 74 - 20.621 ms\n","timestamp":"2023-09-11T17:14:26.122Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 77 - 7.521 ms\n","timestamp":"2023-09-11T17:14:45.491Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 77 - 3.008 ms\n","timestamp":"2023-09-11T17:14:56.757Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 106 - 10.883 ms\n","timestamp":"2023-09-11T17:15:23.466Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 10059 - 5.721 ms\n","timestamp":"2023-09-11T17:15:26.603Z"}
+{"label":"medicos","level":"info","message":"PATCH /medicos/atualiza-medico-id64ff4b2be5bc25b31f14604a 200 10059 - 2.635 ms\n","timestamp":"2023-09-11T17:15:56.713Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:16:27.268Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 10093 - 15.838 ms\n","timestamp":"2023-09-11T17:16:31.987Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:17:01.205Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:31:29.004Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:36:25.652Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff4b2be5bc25b31f14604a 200 10026 - 12.287 ms\n","timestamp":"2023-09-11T17:36:43.676Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-11T17:36:46.926Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff4b2be5bc25b31f14604adsad 400 25 - 1.458 ms\n","timestamp":"2023-09-11T17:36:46.927Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:41:24.800Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 10093 - 15.598 ms\n","timestamp":"2023-09-11T17:46:58.262Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:50:31.867Z"}
+{"label":"medicos","level":"info","message":"PATCH /medicos/atualiza-medico-id64ff4b2be5bc25b31f14604a 404 38 - 2.596 ms\n","timestamp":"2023-09-11T17:50:35.685Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/atualiza-medico-id64ff4b2be5bc25b31f14604a 200 10059 - 13.597 ms\n","timestamp":"2023-09-11T17:50:40.105Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/atualiza-medico-id64ff4b2be5bc25b31f14604a 200 10060 - 4.569 ms\n","timestamp":"2023-09-11T17:50:51.535Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:55:55.734Z"}
+{"label":"medicos","level":"error","message":"page is not defined","timestamp":"2023-09-11T17:56:08.178Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 500 33 - 17.422 ms\n","timestamp":"2023-09-11T17:56:08.182Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T17:56:29.168Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 10044 - 16.253 ms\n","timestamp":"2023-09-11T17:56:31.386Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:13:14.487Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-11T18:14:36.048Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOftalmologia 400 25 - 3.766 ms\n","timestamp":"2023-09-11T18:14:36.052Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-11T18:15:22.613Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff4b2be5bc25b31f14604adsad 400 25 - 1.164 ms\n","timestamp":"2023-09-11T18:15:22.614Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff4b2be5bc25b31f14604a 200 10027 - 11.424 ms\n","timestamp":"2023-09-11T18:15:33.954Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-11T18:15:43.113Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOftalmologia 400 25 - 0.792 ms\n","timestamp":"2023-09-11T18:15:43.114Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:15:59.591Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOftalmologia 200 10044 - 16.113 ms\n","timestamp":"2023-09-11T18:16:02.125Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/atualiza-medico-id64ff4b2be5bc25b31f14604a 200 10059 - 8.598 ms\n","timestamp":"2023-09-11T18:16:25.671Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOftalmologia 200 27 - 2.974 ms\n","timestamp":"2023-09-11T18:16:28.785Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:17:17.700Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOftalmologia 200 12 - 9.049 ms\n","timestamp":"2023-09-11T18:17:21.910Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeCardiologia 200 10028 - 5.310 ms\n","timestamp":"2023-09-11T18:17:29.535Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 102 - 10.331 ms\n","timestamp":"2023-09-11T18:19:02.261Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 31177 - 7.483 ms\n","timestamp":"2023-09-11T18:19:07.940Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeCardiologia 200 10028 - 2.128 ms\n","timestamp":"2023-09-11T18:19:20.542Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOrtopedia 200 21145 - 2.670 ms\n","timestamp":"2023-09-11T18:19:31.612Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:20:06.223Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidadeOrtopedia 404 38 - 2.766 ms\n","timestamp":"2023-09-11T18:20:08.591Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidade-Ortopedia 200 21145 - 10.680 ms\n","timestamp":"2023-09-11T18:20:13.042Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id64ff4b2be5bc25b31f14604a 404 38 - 0.534 ms\n","timestamp":"2023-09-11T18:20:16.616Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id-64ff4b2be5bc25b31f14604a 200 10026 - 4.194 ms\n","timestamp":"2023-09-11T18:20:20.864Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:34:04.430Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:34:53.928Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:37:52.938Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:41:50.243Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 31177 - 16.389 ms\n","timestamp":"2023-09-11T18:41:57.395Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:47:25.603Z"}
+{"label":"medicos","level":"error","message":"E11000 duplicate key error collection: medicoDB.medicos index: CRM_1 dup key: { CRM: 201411 }","timestamp":"2023-09-11T18:47:34.290Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 107 - 23.421 ms\n","timestamp":"2023-09-11T18:47:34.294Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:48:11.678Z"}
+{"label":"medicos","level":"error","message":"medicos validation failed: CRM: CRM é obrigatório","timestamp":"2023-09-11T18:49:12.573Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 65 - 11.829 ms\n","timestamp":"2023-09-11T18:49:12.576Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:50:07.302Z"}
+{"label":"medicos","level":"error","message":"E11000 duplicate key error collection: medicoDB.medicos index: CRM_1 dup key: { CRM: 201411 }","timestamp":"2023-09-11T18:50:14.769Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 107 - 15.973 ms\n","timestamp":"2023-09-11T18:50:14.773Z"}
+{"label":"medicos","level":"error","message":"medicos validation failed: CRM: CRM inválido","timestamp":"2023-09-11T18:51:52.950Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 59 - 2.461 ms\n","timestamp":"2023-09-11T18:51:52.951Z"}
+{"label":"medicos","level":"error","message":"medicos validation failed: CRM: Path `CRM` (201222321) is more than maximum allowed value (999999).","timestamp":"2023-09-11T18:52:04.261Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 113 - 1.578 ms\n","timestamp":"2023-09-11T18:52:04.262Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T18:52:37.594Z"}
+{"label":"medicos","level":"error","message":"medicos validation failed: CRM: CRM inválido","timestamp":"2023-09-11T18:52:41.556Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 59 - 12.449 ms\n","timestamp":"2023-09-11T18:52:41.560Z"}
+{"label":"medicos","level":"error","message":"medicos validation failed: CRM: CRM inválido","timestamp":"2023-09-11T18:52:56.871Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 59 - 2.401 ms\n","timestamp":"2023-09-11T18:52:56.872Z"}
+{"label":"medicos","level":"error","message":"medicos validation failed: especialidade: Especialidade é obrigatória","timestamp":"2023-09-11T18:53:20.574Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 500 85 - 1.791 ms\n","timestamp":"2023-09-11T18:53:20.575Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T19:09:55.812Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T19:11:33.387Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T19:15:20.107Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T19:15:35.253Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T19:15:43.797Z"}
+{"label":"medicos","level":"info","message":"POST /medicos/novo-medico 200 111 - 17.972 ms\n","timestamp":"2023-09-11T19:19:18.788Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidade-Ortopedia 200 634748 - 16.528 ms\n","timestamp":"2023-09-11T19:19:24.635Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T19:41:56.759Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-11T22:07:51.228Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 644780 - 23.514 ms\n","timestamp":"2023-09-11T22:08:00.168Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id-64ff4b2be5bc25b31f14604a 200 10026 - 4.147 ms\n","timestamp":"2023-09-11T22:08:11.641Z"}
+{"label":"medicos","level":"info","message":"GET /medicos//medico-especialidade-Ortopedia 200 634748 - 10.359 ms\n","timestamp":"2023-09-11T22:08:24.360Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-11T22:08:56.873Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id-64ff4b2be5bc25 400 25 - 1.804 ms\n","timestamp":"2023-09-11T22:08:56.874Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-12T20:39:08.216Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-12T20:39:56.546Z"}

@@ -1,7 +1,7 @@
 {
   "name": "appsaudemedicos",
   "version": "1.0.0",
-  "description": "API para informações dos médicos disponíveis",
+  "description": "API para informações e operações dos médicos disponíveis da clínica Saúde+",
   "main": "src/index.js",
   "scripts": {
     "build": "rimraf dist/ && babel ./src --out-dir dist/ --ignore ./node_modules,./.babelrc,./nodemon.json,./package.json,./npm-debug.log --copy-files && copyfiles -a config/* dist",

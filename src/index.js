@@ -15,7 +15,7 @@ const httpReqLogger = morgan(httpReqLogFormat, { stream: logger.stream });
 
 initializeDB();
 
-app.use(express.json());
+app.use(express.json({limit: '10mb'}));
 app.use(httpReqLogger);
 app.use('/', routes);
 app.use(errorHandler);
