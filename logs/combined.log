@@ -226,3 +226,216 @@
 {"label":"medicos","level":"info","message":"GET /medicos/medico-id-64ff4b2be5bc25 400 25 - 1.804 ms\n","timestamp":"2023-09-11T22:08:56.874Z"}
 {"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-12T20:39:08.216Z"}
 {"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-12T20:39:56.546Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-13T23:45:15.286Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 200 3106 - 4.260 ms\n","timestamp":"2023-09-13T23:45:31.004Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 1445 - 0.511 ms\n","timestamp":"2023-09-13T23:45:31.030Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 200 151211 - 9.649 ms\n","timestamp":"2023-09-13T23:45:31.038Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 200 233737 - 3.650 ms\n","timestamp":"2023-09-13T23:45:31.042Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 200 1385205 - 7.816 ms\n","timestamp":"2023-09-13T23:45:31.049Z"}
+{"label":"medicos","level":"info","message":"GET / 404 38 - 0.451 ms\n","timestamp":"2023-09-13T23:45:31.229Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 200 628 - 0.692 ms\n","timestamp":"2023-09-13T23:45:31.239Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-13T23:48:24.908Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.337 ms\n","timestamp":"2023-09-13T23:48:44.410Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 1763 - 0.395 ms\n","timestamp":"2023-09-13T23:48:44.423Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 4.708 ms\n","timestamp":"2023-09-13T23:48:44.425Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 4.657 ms\n","timestamp":"2023-09-13T23:48:44.426Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.264 ms\n","timestamp":"2023-09-13T23:48:44.428Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.454 ms\n","timestamp":"2023-09-13T23:48:44.560Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T00:24:46.112Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.492 ms\n","timestamp":"2023-09-14T00:24:50.133Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 9539 - 0.404 ms\n","timestamp":"2023-09-14T00:24:50.145Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 4.544 ms\n","timestamp":"2023-09-14T00:24:50.146Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 4.356 ms\n","timestamp":"2023-09-14T00:24:50.147Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.177 ms\n","timestamp":"2023-09-14T00:24:50.149Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.384 ms\n","timestamp":"2023-09-14T00:24:50.345Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.608 ms\n","timestamp":"2023-09-14T00:24:58.995Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.429 ms\n","timestamp":"2023-09-14T00:25:01.571Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.404 ms\n","timestamp":"2023-09-14T00:25:02.573Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.397 ms\n","timestamp":"2023-09-14T00:25:04.458Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.526 ms\n","timestamp":"2023-09-14T00:25:05.496Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.669 ms\n","timestamp":"2023-09-14T00:25:07.810Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 0.944 ms\n","timestamp":"2023-09-14T00:25:07.824Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 0.803 ms\n","timestamp":"2023-09-14T00:25:07.826Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.398 ms\n","timestamp":"2023-09-14T00:25:07.827Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.690 ms\n","timestamp":"2023-09-14T00:25:07.828Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.588 ms\n","timestamp":"2023-09-14T00:25:07.919Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.391 ms\n","timestamp":"2023-09-14T00:25:11.045Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.403 ms\n","timestamp":"2023-09-14T00:25:11.894Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.353 ms\n","timestamp":"2023-09-14T00:25:13.007Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.595 ms\n","timestamp":"2023-09-14T00:25:14.093Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T12:42:57.286Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 200 3106 - 3.914 ms\n","timestamp":"2023-09-14T12:44:02.596Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 9718 - 0.289 ms\n","timestamp":"2023-09-14T12:44:02.618Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 200 151211 - 8.622 ms\n","timestamp":"2023-09-14T12:44:02.626Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 200 233737 - 3.137 ms\n","timestamp":"2023-09-14T12:44:02.629Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 200 1385205 - 2.977 ms\n","timestamp":"2023-09-14T12:44:02.637Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 200 628 - 0.835 ms\n","timestamp":"2023-09-14T12:44:02.887Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 1.133 ms\n","timestamp":"2023-09-14T12:44:07.091Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.448 ms\n","timestamp":"2023-09-14T12:44:12.220Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.382 ms\n","timestamp":"2023-09-14T12:44:13.215Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 2.312 ms\n","timestamp":"2023-09-14T12:44:15.447Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.865 ms\n","timestamp":"2023-09-14T12:44:16.107Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.377 ms\n","timestamp":"2023-09-14T12:44:16.999Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.395 ms\n","timestamp":"2023-09-14T12:44:18.069Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.456 ms\n","timestamp":"2023-09-14T12:44:30.114Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.379 ms\n","timestamp":"2023-09-14T12:44:39.113Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.957 ms\n","timestamp":"2023-09-14T12:44:40.182Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.608 ms\n","timestamp":"2023-09-14T12:44:43.465Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.232 ms\n","timestamp":"2023-09-14T12:44:43.478Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 1.285 ms\n","timestamp":"2023-09-14T12:44:43.480Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 1.523 ms\n","timestamp":"2023-09-14T12:44:43.481Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.306 ms\n","timestamp":"2023-09-14T12:44:43.483Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.374 ms\n","timestamp":"2023-09-14T12:44:43.562Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.555 ms\n","timestamp":"2023-09-14T12:44:45.558Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.364 ms\n","timestamp":"2023-09-14T12:44:46.135Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.746 ms\n","timestamp":"2023-09-14T12:44:47.013Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.400 ms\n","timestamp":"2023-09-14T12:44:48.023Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.556 ms\n","timestamp":"2023-09-14T12:44:48.465Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.347 ms\n","timestamp":"2023-09-14T12:44:48.863Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.405 ms\n","timestamp":"2023-09-14T12:44:49.498Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.316 ms\n","timestamp":"2023-09-14T12:44:49.875Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T12:45:48.495Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.528 ms\n","timestamp":"2023-09-14T12:45:51.211Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 9638 - 0.499 ms\n","timestamp":"2023-09-14T12:45:51.225Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 5.441 ms\n","timestamp":"2023-09-14T12:45:51.227Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 4.553 ms\n","timestamp":"2023-09-14T12:45:51.228Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 3.604 ms\n","timestamp":"2023-09-14T12:45:51.230Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.395 ms\n","timestamp":"2023-09-14T12:45:51.294Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.473 ms\n","timestamp":"2023-09-14T12:45:57.941Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.410 ms\n","timestamp":"2023-09-14T12:46:20.425Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.478 ms\n","timestamp":"2023-09-14T12:46:22.564Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.532 ms\n","timestamp":"2023-09-14T12:46:28.073Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.450 ms\n","timestamp":"2023-09-14T12:52:48.403Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.656 ms\n","timestamp":"2023-09-14T12:52:51.801Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.460 ms\n","timestamp":"2023-09-14T12:52:55.419Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.490 ms\n","timestamp":"2023-09-14T12:53:01.597Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T12:53:49.338Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T12:57:31.944Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:42:07.454Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 200 3106 - 4.662 ms\n","timestamp":"2023-09-14T14:42:27.087Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 19977 - 0.467 ms\n","timestamp":"2023-09-14T14:42:27.116Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 200 151211 - 7.026 ms\n","timestamp":"2023-09-14T14:42:27.121Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 200 233737 - 5.234 ms\n","timestamp":"2023-09-14T14:42:27.124Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 200 1385205 - 5.906 ms\n","timestamp":"2023-09-14T14:42:27.129Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 200 628 - 0.723 ms\n","timestamp":"2023-09-14T14:42:27.407Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:46:44.282Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.404 ms\n","timestamp":"2023-09-14T14:46:46.981Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.142 ms\n","timestamp":"2023-09-14T14:46:46.995Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 0.452 ms\n","timestamp":"2023-09-14T14:46:46.998Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18062 - 0.511 ms\n","timestamp":"2023-09-14T14:46:47.001Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.764 ms\n","timestamp":"2023-09-14T14:46:47.002Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.379 ms\n","timestamp":"2023-09-14T14:46:47.153Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:48:20.783Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.343 ms\n","timestamp":"2023-09-14T14:48:22.604Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.407 ms\n","timestamp":"2023-09-14T14:48:22.618Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 0.770 ms\n","timestamp":"2023-09-14T14:48:22.621Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 17994 - 0.549 ms\n","timestamp":"2023-09-14T14:48:22.623Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.823 ms\n","timestamp":"2023-09-14T14:48:22.625Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.763 ms\n","timestamp":"2023-09-14T14:48:22.809Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.678 ms\n","timestamp":"2023-09-14T14:48:26.182Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 0.803 ms\n","timestamp":"2023-09-14T14:48:26.195Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.202 ms\n","timestamp":"2023-09-14T14:48:26.200Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.754 ms\n","timestamp":"2023-09-14T14:48:26.201Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.909 ms\n","timestamp":"2023-09-14T14:48:26.202Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.359 ms\n","timestamp":"2023-09-14T14:48:26.284Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 644780 - 20.720 ms\n","timestamp":"2023-09-14T14:48:31.699Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:49:55.964Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.466 ms\n","timestamp":"2023-09-14T14:49:59.694Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.185 ms\n","timestamp":"2023-09-14T14:49:59.708Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 1.380 ms\n","timestamp":"2023-09-14T14:49:59.711Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 1.941 ms\n","timestamp":"2023-09-14T14:49:59.713Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18141 - 0.428 ms\n","timestamp":"2023-09-14T14:49:59.715Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.472 ms\n","timestamp":"2023-09-14T14:49:59.861Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-especialidade-ortopedia 200 12 - 7.052 ms\n","timestamp":"2023-09-14T14:50:13.666Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-especialidade-Ortopedia 200 634748 - 13.334 ms\n","timestamp":"2023-09-14T14:50:21.337Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:51:53.833Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:53:00.563Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:53:54.931Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.571 ms\n","timestamp":"2023-09-14T14:53:57.195Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.770 ms\n","timestamp":"2023-09-14T14:53:57.215Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.470 ms\n","timestamp":"2023-09-14T14:53:57.217Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18081 - 0.463 ms\n","timestamp":"2023-09-14T14:53:57.220Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.985 ms\n","timestamp":"2023-09-14T14:53:57.221Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.425 ms\n","timestamp":"2023-09-14T14:53:57.350Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 304 - - 20.191 ms\n","timestamp":"2023-09-14T14:54:20.916Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-especialidade-Cardiologia 200 10028 - 3.208 ms\n","timestamp":"2023-09-14T14:54:35.082Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-especialidade-dasdasd 200 12 - 2.594 ms\n","timestamp":"2023-09-14T14:54:40.156Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:55:35.914Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.611 ms\n","timestamp":"2023-09-14T14:55:37.554Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 2.283 ms\n","timestamp":"2023-09-14T14:55:37.570Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.446 ms\n","timestamp":"2023-09-14T14:55:37.571Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 0.714 ms\n","timestamp":"2023-09-14T14:55:37.573Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18080 - 0.569 ms\n","timestamp":"2023-09-14T14:55:37.575Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.466 ms\n","timestamp":"2023-09-14T14:55:37.661Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.860 ms\n","timestamp":"2023-09-14T14:55:46.716Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 0.814 ms\n","timestamp":"2023-09-14T14:55:46.727Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 1.426 ms\n","timestamp":"2023-09-14T14:55:46.731Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.034 ms\n","timestamp":"2023-09-14T14:55:46.732Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.304 ms\n","timestamp":"2023-09-14T14:55:46.733Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.379 ms\n","timestamp":"2023-09-14T14:55:46.811Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:56:02.231Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.313 ms\n","timestamp":"2023-09-14T14:56:03.805Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 2.216 ms\n","timestamp":"2023-09-14T14:56:03.821Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.228 ms\n","timestamp":"2023-09-14T14:56:03.823Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18079 - 0.436 ms\n","timestamp":"2023-09-14T14:56:03.826Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.918 ms\n","timestamp":"2023-09-14T14:56:03.828Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.388 ms\n","timestamp":"2023-09-14T14:56:03.907Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:56:25.300Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.516 ms\n","timestamp":"2023-09-14T14:56:31.775Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.900 ms\n","timestamp":"2023-09-14T14:56:31.795Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.386 ms\n","timestamp":"2023-09-14T14:56:31.796Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 0.953 ms\n","timestamp":"2023-09-14T14:56:31.799Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18078 - 0.664 ms\n","timestamp":"2023-09-14T14:56:31.802Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.522 ms\n","timestamp":"2023-09-14T14:56:31.897Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.731 ms\n","timestamp":"2023-09-14T14:56:47.388Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 0.747 ms\n","timestamp":"2023-09-14T14:56:47.404Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 0.505 ms\n","timestamp":"2023-09-14T14:56:47.406Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.194 ms\n","timestamp":"2023-09-14T14:56:47.408Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 1.741 ms\n","timestamp":"2023-09-14T14:56:47.409Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.422 ms\n","timestamp":"2023-09-14T14:56:47.498Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-14T14:56:57.413Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id-dsadsad 400 25 - 1.547 ms\n","timestamp":"2023-09-14T14:56:57.414Z"}
+{"label":"medicos","level":"error","message":"ID invalido","timestamp":"2023-09-14T14:57:19.694Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id-64ff4b2be5bc25 400 25 - 3.555 ms\n","timestamp":"2023-09-14T14:57:19.697Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medicos-disponiveis 200 644780 - 19.826 ms\n","timestamp":"2023-09-14T14:57:27.850Z"}
+{"label":"medicos","level":"info","message":"GET /medicos/medico-id-64ff4b2be5bc25b31f14604a 200 10026 - 3.974 ms\n","timestamp":"2023-09-14T14:57:33.011Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T14:57:54.758Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.371 ms\n","timestamp":"2023-09-14T14:58:01.266Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.396 ms\n","timestamp":"2023-09-14T14:58:01.280Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18079 - 0.410 ms\n","timestamp":"2023-09-14T14:58:01.285Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.964 ms\n","timestamp":"2023-09-14T14:58:01.286Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 3.540 ms\n","timestamp":"2023-09-14T14:58:01.287Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.439 ms\n","timestamp":"2023-09-14T14:58:01.370Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.795 ms\n","timestamp":"2023-09-14T14:59:27.499Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 0.623 ms\n","timestamp":"2023-09-14T14:59:27.510Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.202 ms\n","timestamp":"2023-09-14T14:59:27.513Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.204 ms\n","timestamp":"2023-09-14T14:59:27.514Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.528 ms\n","timestamp":"2023-09-14T14:59:27.515Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.434 ms\n","timestamp":"2023-09-14T14:59:27.646Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T15:02:09.456Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.414 ms\n","timestamp":"2023-09-14T15:02:12.922Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.979 ms\n","timestamp":"2023-09-14T15:02:12.938Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 2.406 ms\n","timestamp":"2023-09-14T15:02:12.939Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18079 - 0.496 ms\n","timestamp":"2023-09-14T15:02:12.942Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 3.194 ms\n","timestamp":"2023-09-14T15:02:12.944Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.390 ms\n","timestamp":"2023-09-14T15:02:13.069Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 0.936 ms\n","timestamp":"2023-09-14T16:53:21.959Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.165 ms\n","timestamp":"2023-09-14T16:53:21.977Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 1.289 ms\n","timestamp":"2023-09-14T16:53:21.978Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 304 - - 0.245 ms\n","timestamp":"2023-09-14T16:53:21.981Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.170 ms\n","timestamp":"2023-09-14T16:53:21.982Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.380 ms\n","timestamp":"2023-09-14T16:53:22.164Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T16:56:05.443Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 4.590 ms\n","timestamp":"2023-09-14T16:56:12.168Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.315 ms\n","timestamp":"2023-09-14T16:56:12.183Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 0.452 ms\n","timestamp":"2023-09-14T16:56:12.185Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 18078 - 0.440 ms\n","timestamp":"2023-09-14T16:56:12.188Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 2.952 ms\n","timestamp":"2023-09-14T16:56:12.189Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.557 ms\n","timestamp":"2023-09-14T16:56:12.372Z"}
+{"label":"medicos","level":"info","message":"Connected to MongoDB!!","timestamp":"2023-09-14T16:57:10.683Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/ 304 - - 3.529 ms\n","timestamp":"2023-09-14T16:57:13.813Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui.css 304 - - 1.930 ms\n","timestamp":"2023-09-14T16:57:13.828Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 - - 0.974 ms\n","timestamp":"2023-09-14T16:57:13.832Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 - - 1.617 ms\n","timestamp":"2023-09-14T16:57:13.833Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/swagger-ui-init.js 200 17987 - 0.475 ms\n","timestamp":"2023-09-14T16:57:13.835Z"}
+{"label":"medicos","level":"info","message":"GET /api-docs/favicon-32x32.png 304 - - 0.398 ms\n","timestamp":"2023-09-14T16:57:13.982Z"}
